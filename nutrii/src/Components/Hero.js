@@ -27,8 +27,8 @@ function Hero() {
             trigger: ".hero-main",
             pin: false,
             markers: true,
-            start: "top 10%",
-            end: "bottom 10%",
+            start: "top bottom",
+            end: "bottom top",
         });
 
         const ts = gsap.timeline();
@@ -41,9 +41,9 @@ function Hero() {
                 scrub: 1,
                 ease: "power3.inOut",
             },
-            duration: 1,
-            scale: 0.9,
-            opacity: 0
+            duration: 0.5,
+            scale: 0.7,
+            opacity: 0.5
         });
 
         ts.to(".card", {
@@ -51,11 +51,11 @@ function Hero() {
                 trigger: ".hero-main",
                 start: pinTrigger?.start,
                 end: pinTrigger?.end,
-                scrub: 1,
+                scrub: 0.5,
                 ease: "power3.inOut",
             },
-            duration: 1,
-            scale: 1.5,
+            duration: 0.5,
+            scale: 1.05,
             opacity: 1
         });
 
