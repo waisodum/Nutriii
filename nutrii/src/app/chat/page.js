@@ -1,5 +1,5 @@
 "use client";
-import Chat from "@/components/Chat";
+import Chat from "@/Components/Chat";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
