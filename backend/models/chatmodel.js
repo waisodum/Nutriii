@@ -8,7 +8,7 @@ const Schema = mongoose.Schema;
 const messageSchema = new Schema({
     sender: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
     content: { type: String , trim: true },
-    Chat: { type: mongoose.Schema.Types.ObjectId, ref: "Chat" },
+    chat: { type: mongoose.Schema.Types.ObjectId, ref: "Chat" },
     readby: [{ type: mongoose.Schema.Types.ObjectId, ref: "User" }],
   });
   

@@ -11,7 +11,8 @@ var usersRouter = require('./routes/users');
 var loginRouter=require('./routes/login')
 var uploadRouter=require('./routes/Upload')
 var searchRouter=require('./routes/Search')
-var messageRouter=require('./routes/Message')
+var messageRouter=require('./routes/Message');
+const { Chat } = require('./models/chatmodel');
 
 var app = express();
 
@@ -54,7 +55,7 @@ const server = app.listen('8000',()=>{
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "*",
+    origin: "http://localhost:3000",
     // credentials: true,
   },
 });
@@ -65,7 +66,6 @@ io.on("connection", (socket) => {
     socket.join(userData._id);
     socket.emit("connected");
   });
-
   socket.on("join chat", (room) => {
     socket.join(room);
     console.log("User Joined Room: " + room);
@@ -73,20 +73,19 @@ io.on("connection", (socket) => {
   socket.on("typing", (room) => socket.in(room).emit("typing"));
   socket.on("stop typing", (room) => socket.in(room).emit("stop typing"));
 
-  socket.on("new message", (newMessageRecieved) => {
+  socket.on("new message", async(newMessageRecieved) => {
+    console.log(newMessageRecieved);
     var chat = newMessageRecieved.chat;
+ var i = await Chat.findOne({_id:chat})
+console.log(i.users);
+    if (!i.users) return console.log("chat.users not defined");
 
-    if (!chat.users) return console.log("chat.users not defined");
-
-    chat.users.forEach((user) => {
-      if (user._id == newMessageRecieved.sender._id) return;
-
+    
+    i.users.forEach((user) => {
       socket.in(user._id).emit("message recieved", newMessageRecieved);
     });
+console.log('completed');
+
   });
 
-  socket.off("setup", () => {
-    console.log("USER DISCONNECTED");
-    socket.leave(userData._id);
-  });
 });

@@ -16,8 +16,9 @@ const userSchema = new Schema({
   firstname: { type: String, required: true },
   lastname: { type: String, required: true },
   username: { type: String, required: true, unique: true },
-  Branch: { type: String, required: true },
-  Year: { type: String, required: true },
+  religion: { type: String, required: true },
+  allergies: [{ type: String, required: true }],
+  Foods: { type: String, required: true },
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
   posts: [{ type: mongoose.Schema.Types.ObjectId, ref: "Post" }], // Reference to Post documents
