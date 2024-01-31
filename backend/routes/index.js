@@ -30,12 +30,15 @@ router.post("/Register", async (req, res) => {
     lastname:req.body.lasname,
     username: req.body.username,
     password: await hashSync(req.body.password, 10),
-    Branch: req.body.branch,
-    Year: req.body.year,
+    allergies: req.body.allergies,
+    religion:req.body.religion,
     email: req.body.email,
     posts: [],
   };
+
+  console.log(data);
   const user = new createUser(data);
+  
   await user.save()
     .then((user) => {
       res.send({
@@ -49,8 +52,8 @@ router.post("/Register", async (req, res) => {
 
     })
     .catch((err) => {
-      
-      res.send({
+      console.log(err)
+      res.status(400).send({
         success: false,
         message: "Something went wrong",
         error: err,
