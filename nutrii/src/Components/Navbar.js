@@ -1,7 +1,43 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import '../Styles/Navbar.css'
+import gsap from 'gsap'
 
 function Navbar() {
+
+    useEffect(() => {
+        gsap.set('nav', {
+            opacity: 0,
+            y: -50,
+        });
+        gsap.set('.logo', {
+            opacity: 0,
+            // y: -50,
+        });
+        gsap.set('menu', {
+            opacity: 0,
+            // y: -50,
+        });
+
+        const tl = gsap.timeline();
+
+        tl.to('nav',{
+            opacity: 1,
+            y: 0,
+            duration: .2
+        })
+        tl.to('.logo',{
+            opacity: 1,
+            y: 0,
+            duration: .5
+        })
+        tl.to('menu',{
+            opacity: 1,
+            y: 0,
+            duration: .5
+        })
+
+    }, []);
+
     return (
         <nav>
             <div className='logo'>
