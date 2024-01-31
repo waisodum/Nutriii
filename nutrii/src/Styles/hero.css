@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,23 +16,55 @@
   justify-content: space-between;
   flex-direction: column;
   scroll-snap-type: y mandatory;
+  font-family: "Agbalumo";
 }
 
-.hero-inner {
-  background: url("/rec.jpg") no-repeat center;
+.welcome {
+  width: 100%;
+  height: 100vw;
+  text-align: center;
+  height: 90vh;
+  font-size: 5vw;
+  font-family: "Agbalumo", system-ui;
+  opacity: 0;
+  position: relative;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.hero-inner2 {
-  background: url("/cook.jpg") no-repeat center;
+.welcome h1 {
+  width: 70vw;
+  position: absolute;
+  font-weight: 700;
+  z-index: 1; /* Bring it to the foreground */
+  color: #2a2a2a;
+  text-shadow: 0px 0px 10px #fff;
 }
 
-.hero-sub{
-    scroll-snap-align:  start;
-    width: 100%;
-    height: 48%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  filter: brightness(0.1); 
+  z-index: -1;
+}
+
+.bgvideo {
+  width: 500px;
+  /* background: url("/hero.jpg"); */
+}
+
+.hero-sub {
+  scroll-snap-align: start;
+  width: 80%;
+  height: 48%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .card {
@@ -40,7 +74,7 @@
   border-radius: 3vw;
   padding: 0.5vw 2vw;
   color: #2a2a2a;
-  font-size: 2vw;
+  font-size: 1.5vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -54,7 +88,7 @@
 .card p {
   font-weight: 800;
   text-shadow: 0px 0px 5px #fff;
-  background-blend-mode:difference;
+  background-blend-mode: difference;
   padding: 0.5 1vw;
   border-radius: 0.5vw;
 }
@@ -66,9 +100,17 @@
   scale: 1.05;
 }
 
-.info{
-    width: 50%;
-    font-size: 1.5vw;
+.card:hover .hero-sub {
+  border: 2px solid #2a2a2a;
+}
+
+.arrow{
+    font-size: 4vw;
+}
+
+.info {
+  width: 50%;
+  font-size: 1.5vw;
 }
 
 @media only screen and (max-width: 500px) {
@@ -92,8 +134,19 @@
   .card:hover {
     font-size: 22px;
   }
-
-  .info{
+  .info {
     display: none;
   }
+  .welcome h1{
+    font-size: 50px;
+    text-shadow: 0px 0px 10px #fff;
+  }
+}
+
+.wrapper {
+  width: 85vw;
+  height: 50vh;
+  border-radius: 1.5vw;
+  overflow: hidden;
+  /* background: url('/hero.jpg'); */
 }

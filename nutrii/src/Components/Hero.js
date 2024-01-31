@@ -3,6 +3,8 @@ import '../Styles/hero.css'
 import { FaArrowRight } from "react-icons/fa";
 import { gsap } from 'gsap';
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import Spline from '@splinetool/react-spline';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -10,10 +12,10 @@ function Hero() {
 
     useEffect(() => {
 
-        // gsap.set('.card', {
-        //     scale: 0.8,
-        //     opacity: 0
-        // })
+        gsap.set(".welcome", {
+            opacity:  0,
+            y: 50
+        })
 
         const t = gsap.timeline();
 
@@ -26,7 +28,6 @@ function Hero() {
         const pinTrigger = ScrollTrigger.create({
             trigger: ".hero-main",
             pin: false,
-            // markers: true,
             start: "top bottom",
             end: "bottom 0",
         });
@@ -46,6 +47,11 @@ function Hero() {
             opacity: 1
         });
 
+        ts.to('.welcome', {
+            opacity: 1,
+            y: 0,
+            duration: 1
+        })
 
         return () => {
             pinTrigger.kill();
@@ -54,13 +60,20 @@ function Hero() {
 
     }, [])
 
-
     return (
         <>
             <div className='hero-main'>
+
+                <div className='welcome'>
+                    <div className='background'></div>
+                    <h1>Welcome to your personal nutrient assistant</h1><div className='bgvideo'></div>
+                    <Spline scene="https://prod.spline.design/AMw74cXJXx2lp6Zk/scene.splinecode" />
+                </div>
+
                 <div className='hero-sub'>
                     <div className='hero-inner card'>
-                        <p className='mr-[0.5vw]'>Get your personalised Recommendations</p> <FaArrowRight className='arrow' />
+                    <Spline scene="https://prod.spline.design/FwPK5-tGGZJ4AZ7Z/scene.splinecode" />
+                        <p className='mr-[0.5vw] '>Get your personalised Recommendations</p> <FaArrowRight className='arrow' />
                     </div>
                     <div className='info'>
                         <p>Receive curated content, such as recipes or product recommendations, based on your individual tastes and requirements for a more tailored and satisfying user engagement.</p>

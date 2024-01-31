@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import '../Styles/Navbar.css'
 import gsap from 'gsap'
+import { BsRobot } from "react-icons/bs";
 
 function Navbar() {
 
@@ -57,6 +58,7 @@ function Navbar() {
                     <a className='menu-options' href=".">Profile</a>
                 </div>
             </menu>
+            <h1 className='chatBot'><BsRobot /></h1>
         </nav>
     )
 }

@@ -12,7 +12,7 @@ function Home() {
 
   return (
 
-    <div>
+    <div className='body-main'>
 
       <Navbar />
       {/* <div className='h-[40vw] w-[98vw] bg-black'></div> */}
