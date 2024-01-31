@@ -77,6 +77,7 @@ function Register() {
         const t = gsap.timeline();
 
         t.to('.sign-in-title', {
+            x: 10,
             opacity: 1,
             duration: 1,
         })

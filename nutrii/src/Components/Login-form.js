@@ -1,7 +1,8 @@
 'use client'
 
-import React, { useContext, useState } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import { myContext } from '../../Helper/Context';
+import gsap from 'gsap'
 
 function Login() {
 
@@ -13,6 +14,17 @@ function Login() {
     {
         setLogin(!login);
     }
+
+    useEffect(() => {
+        console.log('Effect triggered');
+        const t = gsap.timeline();
+
+        t.to('.sign-in-title', {
+            x: 10,
+            opacity: 1,
+            duration: 1,
+        })
+    }, [])
 
     return (
         <div className="s3">
