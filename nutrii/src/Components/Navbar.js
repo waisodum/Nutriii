@@ -3,6 +3,7 @@ import '../Styles/Navbar.css'
 import gsap from 'gsap'
 import { BsRobot } from "react-icons/bs";
 import Link from 'next/link';
+import MenuPopupState from './NavPhone';
 
 function Navbar() {
 
@@ -52,6 +53,7 @@ function Navbar() {
             <Link href="#" className='logo'>
                 Nutrii
             </Link>
+            <MenuPopupState/>
             <menu>
                 <div>
                     <a className='menu-options' href='/'>Locate Store</a>

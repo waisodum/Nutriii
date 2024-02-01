@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@mui/material": "^5.15.7",
     "flowbite-react": "^0.7.2",
-    "gsap": "^3.12.5"
+    "gsap": "^3.12.5",
+    "material-ui-popup-state": "^5.0.10"
   }
 }
