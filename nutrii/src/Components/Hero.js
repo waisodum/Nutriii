@@ -18,7 +18,7 @@ function Hero() {
         })
 
         gsap.set('.hero-sub',{
-            opacity:0,
+            opacity:0.8,
             scale:.5
         })
 
@@ -43,14 +43,15 @@ function Hero() {
             scrollTrigger: {
                 trigger: ".hero-main",
                 start: pinTrigger?.start,
-                markers: true,
+                // markers: true,
                 end: pinTrigger?.end,
                 scrub: .2,
                 ease: "power3.inOut",
             },
             duration: 0.5,
             scale: 1.05,
-            opacity: 1
+            opacity: 1,
+            x: -50
         });
 
         ts.to('.welcome', {
@@ -79,7 +80,7 @@ function Hero() {
 
                 <div className='hero-sub'>
                     <div className='card'>
-                        <Spline scene="https://prod.spline.design/FwPK5-tGGZJ4AZ7Z/scene.splinecode" />
+                        {/* <Spline scene="https://prod.spline.design/FwPK5-tGGZJ4AZ7Z/scene.splinecode" /> */}
                         <p className='mr-[0.5vw]'>Get your personalised Recommendations</p> <FaArrowRight className='arrow' />
                     </div>
                     <div className='info'>

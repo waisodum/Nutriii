@@ -19,8 +19,8 @@
   font-family: "Agbalumo";
   z-index: 1;
 }
-.two{
-  background: url('/cook.jpg') center no-repeat;
+.two {
+  background: url("/cook.jpg") center no-repeat;
   background-size: cover;
 }
 .welcome {
@@ -45,6 +45,7 @@
   z-index: 1; /* Bring it to the foreground */
   color: aliceblue;
   text-shadow: 0px 0px 10px #2a2a2a;
+  line-height: -10px;
 }
 
 .background {
@@ -53,7 +54,7 @@
   left: 0;
   width: 95%;
   height: 100%;
-  filter: brightness(0.9); 
+  filter: brightness(0.9);
   z-index: -1;
 }
 
@@ -107,8 +108,8 @@
   border: 2px solid #2a2a2a;
 }
 
-.arrow{
-    font-size: 4vw;
+.arrow {
+  font-size: 4vw;
 }
 
 .info {
@@ -134,7 +135,7 @@
     align-items: center;
     justify-content: space-between;
   }
-  .arrow{
+  .arrow {
     font-size: 25px;
   }
   .card:hover {
@@ -143,15 +144,17 @@
   .info {
     display: none;
   }
-  .welcome h1{
+  .welcome {
     font-size: 50px;
     text-shadow: 0px 0px 10px #fff;
+    line-height: -10px;
   }
-  .background{
+  .background {
     width: 100%;
-    position:absolute;
+    position: absolute;
     left: 0;
     right: 0;
+    line-height: -10px;
   }
 }
 

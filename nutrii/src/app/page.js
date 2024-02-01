@@ -4,6 +4,7 @@ import React, { useContext, useState } from 'react'
 import { myContext } from '../../Helper/Context'
 import Navbar from '@/Components/Navbar';
 import Hero from '@/Components/Hero';
+import Footer from '@/Components/Footer';
 
 function Home() {
 
@@ -17,6 +18,8 @@ function Home() {
       <Navbar/>
 
       <Hero/>
+
+      <Footer/>
 
     </div>
 

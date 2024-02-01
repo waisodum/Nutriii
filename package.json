@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "flowbite-react": "^0.7.2",
     "gsap": "^3.12.5"
   }
 }

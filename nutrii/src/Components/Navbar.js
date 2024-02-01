@@ -54,7 +54,7 @@ function Navbar() {
             </Link>
             <menu>
                 <div>
-                    <a className='menu-options' href='.'>Locate Store</a>
+                    <a className='menu-options' href='/'>Locate Store</a>
                 </div>
                 <div>
                     <a className='menu-options' href='.'>Community</a>

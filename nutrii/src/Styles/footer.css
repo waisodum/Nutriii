@@ -1,0 +1,10 @@
+.footer-inner{
+    width: 100vw;
+    height: 10vw;
+    border-radius: 1vw 1vw 0 0;
+    background-color: #2a2a2a;
+    padding: 1.5vw 3vw;
+    color: aliceblue;
+    font-size: 1.8vw;
+    font-weight: 600;
+}
