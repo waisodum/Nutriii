@@ -61,7 +61,7 @@ router.post(
 try  
 {    var messageData = await Message.create(messageData);
     var ChatData = await Chat.findOne({_id:chat}).populate();
-    // ChatData.messages.push(messageData._id);
+    ChatData.messages.push(messageData._id);
     const resp= await Message.findOne({_id:messageData._id}).populate('chat');
     console.log(resp)
     var savedchat = await ChatData.save(); 

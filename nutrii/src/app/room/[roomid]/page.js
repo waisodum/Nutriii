@@ -15,12 +15,18 @@ zc.joinRoom({
   scenario:{
     mode:ZegoUIKitPrebuilt.OneONoneCall,
   },
+  sharedLinks:[
+    {
+      name:'Copy Link',
+      url:`http://localhost:8000/room/${roomid}`
+    }
+  ],
 screenSharingConfig:false,
 
 })
   }
   return (
-    <div>   <div ref={mymeeting}/></div>
+    <div className='flex  h-screen items-center justify-center'>   <div  ref={mymeeting}/> </div>
   )
 }
 

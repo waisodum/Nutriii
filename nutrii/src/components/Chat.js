@@ -9,41 +9,57 @@ function Chat({ id }) {
   const [Token, setToken] = useState("");
   const [loading, setloading] = useState(false);
   const [socketConnected, setSocketConnected] = useState(false);
-  const socket = io("http://localhost:8000");
-
+const [dummy, setdumm] = useState(1)
   useEffect(() => {
-    async function fetchData() {
-      setloading(true);
-      const token = localStorage.getItem("Token");
-      setToken(token);
-      try {
-        const response = await axios.post(
-          "http://localhost:8000/message",
-          { userId: id },
-          { headers: { Authorization: token } }
-        );
-        setChatid(response.data);
-        console.log(chatId);
-        setMessages(response.data.messages || []);
-        setloading(false);
-      } catch (error) {
-        console.log(error);
-      }
-    }
+async function fetchDAAta(){
+  var ToKen = localStorage.getItem('Token')
+  return await fetch('http://localhost:8000/login',{headers:{"authorization":ToKen
+  }})
+}
+const ID=fetchDAAta()
 
-    fetchData();
-  }, [id]); // Include id in the dependencies array to re-fetch data when id changes
-
-  useEffect(() => {
-
-    socket.emit("setup", id);
+     socket = io("http://localhost:8000");
+    socket.emit("setup", ID);
+    
     socket.on("connected", () => setSocketConnected(true));
 
     return () => {
       // Cleanup function to disconnect the socket when the component unmounts
       socket.disconnect();
     };
-  }, [id]);
+  }, []);
+
+  
+  async function fetchData() {
+    const token = localStorage.getItem("Token");
+    setToken(token);
+    try {
+      const response = await axios.post(
+        "http://localhost:8000/message",
+        { userId: id },
+        { headers: { Authorization: token } }
+      );
+      setChatid(response.data);
+      // console.log(chatId);
+      setMessages(response.data.messages || []);
+    } catch (error) {
+      console.log(error);
+    }
+  }
+  
+  useEffect(() => {
+    
+    setInterval(() => {
+      fetchData()
+    }, 1000);
+    
+  }, [])
+  useEffect(() => {
+
+    fetchData();
+  }, [id]); // Include id in the dependencies array to re-fetch data when id changes
+
+ 
 
   useEffect(() => {
     const handleReceivedMessage = (newMessageReceived) => {
@@ -58,7 +74,7 @@ function Chat({ id }) {
       // Cleanup function to remove the message received listener
       socket.off("message received", handleReceivedMessage);
     };
-  }, [messages]);
+  },[]);
 
   const handleSendMessage = async () => {
     var messageData = {

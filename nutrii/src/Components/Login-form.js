@@ -3,17 +3,19 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { myContext } from '../../Helper/Context';
 import gsap from 'gsap'
+import axios from 'axios';
+import { useRouter } from 'next/navigation';
 
 function Login() {
 
     const {login, setLogin} = useContext(myContext);
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");
-
-    const changeState = ()=>
-    {
-        setLogin(!login);
-    }
+const router=useRouter()
+    // const changeState = ()=>
+    // {
+    //     setLogin(!login);
+    // }
 
     useEffect(() => {
         console.log('Effect triggered');
@@ -25,7 +27,30 @@ function Login() {
             duration: 1,
         })
     }, [])
-
+    async function changeState(e) {
+        e.preventDefault();
+        var g = {
+          username,
+          password,
+        };
+        try {                       
+          const response = await axios.post("http://localhost:8000/login", g);
+          // console.log(response.data);
+          if (response.data.success) {
+            // setdata(response.data.User);
+            // console.log(response.data);
+           await  localStorage.setItem("Token",response.data.token)
+            //  console.log(data);
+            await router.push('/')
+            return null;
+          } else {
+            alert(response.data.message);
+          }
+        } catch (err) {
+          alert(err);
+          console.log(err);
+        }
+      }
     return (
         <div className="s3">
             <div className="sign-header-section">
@@ -51,22 +76,22 @@ function Login() {
                 </div>
             </div>
             <form className="input-container">
-                <input type="email" value={username} required placeholder="Email"
+                <input type="text" value={username} required placeholder="username"
                     onChange={(e) => { setUsername(e.target.value) }} />
                 <input type="password" value={password} required placeholder="Passowrd"
                     onChange={(e) => { setPassword(e.target.value) }} />
                 <a href="#" className="alt-f">
                     Forgot Password ?
                 </a>
-                <button className='hover:rounded-[2vw] rounded-[1vw]'>
+                <button onClick={changeState}className='hover:rounded-[2vw] rounded-[1vw]'>
                     Sign in
                 </button>
                 <div href="#" className="alt-f-full">
                     Not a Member yet?
-                    <p className="p-[.2vw] transition-all duration-1 ease-out border-blue-300 hover:border-b alt-f ml-[0.2vw]"
-                    onClick={changeState}>
+                    {/* <button className="p-[.2vw] transition-all duration-1 ease-out border-blue-300 hover:border-b alt-f ml-[0.2vw]"
+                    onClick={ch}>
                         Sign up
-                    </p>
+                    </button> */}
                 </div>
             </form>
         </div>
