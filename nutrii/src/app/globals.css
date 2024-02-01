@@ -80,3 +80,11 @@
 ::-webkit-scrollbar{
   width: 0;
 }
+
+.body-main{
+  /* background-color: aliceblue; */
+  height: 100vh;
+  background: url('/herobg.jpg') no-repeat center;
+  background-size: cover;
+  border-radius: 0 0 1vw 1vw;
+}

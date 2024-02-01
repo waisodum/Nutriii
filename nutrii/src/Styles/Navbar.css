@@ -17,8 +17,8 @@ nav {
   padding: 1vw 2vw 1vw 3vw;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  /* border-radius: 0 0 2vw 2vw; */
+  justify-content: space-evenly;
+  z-index: 3;
 }
 
 .logo {
@@ -56,9 +56,22 @@ menu {
 
 .chatBot{
   font-size: 3vw;
+  width: fit-content;
+  height: fit-content;
+  padding: 0.5vw  1vw;
+  background-color: #636363;
+  border-radius: 1vw;
+  transition: all .2s ease-out;
+}
+.chatBot:hover{
+  border-radius: 0.5vw;
+  font-size: 3.1vw;
+}
+.chatBot:active{
+  transform: scale(0.9);
 }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 650px) {
   nav {
     height: 80px;
     padding: 10px 20px;
@@ -66,5 +79,14 @@ menu {
   .logo {
     font-size: 33px;
     font-weight: 600;
+  }
+  .chatBot{
+    font-size: 30px;
+    padding: 3px 5px;
+    border-radius: 10px;
+  }
+  .chatBot:active{
+    border-radius: 5px;
+    font-size: 32px;
   }
 }

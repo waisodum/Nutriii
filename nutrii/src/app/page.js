@@ -14,10 +14,9 @@ function Home() {
 
     <div className='body-main'>
 
-      <Navbar />
-      {/* <div className='h-[40vw] w-[98vw] bg-black'></div> */}
+      <Navbar/>
+
       <Hero/>
-      {/* <div className='h-[40vw] w-[98vw] bg-black'></div> */}
 
     </div>
 

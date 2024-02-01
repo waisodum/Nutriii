@@ -1,7 +1,8 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import '../Styles/Navbar.css'
 import gsap from 'gsap'
 import { BsRobot } from "react-icons/bs";
+import Link from 'next/link';
 
 function Navbar() {
 
@@ -19,6 +20,10 @@ function Navbar() {
             // y: -50,
         });
 
+        gsap.set('.chatBot',{
+            scale: 0.9,
+        })
+
         const tl = gsap.timeline();
 
         tl.to('nav',{
@@ -35,15 +40,18 @@ function Navbar() {
             opacity: 1,
             y: 0,
             duration: .5
+        }).to('.chatBot', {
+            scale: 1,
+            duration: 0.5
         })
 
     }, []);
 
     return (
         <nav>
-            <div className='logo'>
+            <Link href="#" className='logo'>
                 Nutrii
-            </div>
+            </Link>
             <menu>
                 <div>
                     <a className='menu-options' href='.'>Locate Store</a>
@@ -58,7 +66,7 @@ function Navbar() {
                     <a className='menu-options' href=".">Profile</a>
                 </div>
             </menu>
-            <h1 className='chatBot'><BsRobot /></h1>
+            <Link href='/ChatBot' className='chatBot'><BsRobot /></Link>
         </nav>
     )
 }
