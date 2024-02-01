@@ -1,0 +1,198 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          "Whats up",
+          "Hey",
+          "greetings"
+        ],
+        "responses": [
+          "Hello!",
+          "Good to see you again!",
+          "Hi there, how can I help?"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "cya",
+          "See you later",
+          "Goodbye",
+          "I am Leaving",
+          "Have a Good day",
+          "bye",
+          "cao",
+          "see ya"
+        ],
+        "responses": [
+          "Sad to see you go :(",
+          "Talk to you later",
+          "Goodbye!"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Almond",
+        "patterns": [
+          "symptoms of Nut Allergy?",
+          "Nut Allergy?",
+          "manage Nut Allergy?",
+          "Alternatives of Almonds?",
+          "Almonds Allergy?",
+          "alternatives to Almond for Nut Allergy people?"
+        ],
+        "responses": [
+          "The symptoms of Nut Allergy may include Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Nut Allergy, you can Avoid almonds and products containing almonds. Carry an epinephrine auto-injector for emergencies.",
+          "For people with Nut Allergy, alternatives to Almond include such seeds as sunflower, pumpkin and winter squash"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Apple",
+        "patterns": [
+          "Oral Allergy Syndrome?",
+          "Mouth Allergy Syndrome?",
+          "Mouth Allergy?",
+          "Manage Oral Allergy?",
+          "Manage Mouth Allergy?",
+          "Alternatives to Apple?",
+          "fruits for oral Allergy?",
+          "Mouth allergy Fruits?",
+          "Fruits Oral allergy?",
+          "fruits Oral",
+          "fruits Mouth"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include Itchy mouth, scratchy throat, swollen lips, oral discomfort",
+          "To manage Oral Allergy Syndrome, you can Cooking or peeling apples may reduce allergic reactions. Avoid consuming raw apples.",
+          "For people with Oral Allergy Syndrome, alternatives to Apple include papaya,kiwi,oranges"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Apricot",
+        "patterns": [
+          "Stone Fruit Allergy?",
+          "Apricot Allergy?",
+          "Stone Fruit Syndrome?",
+          "Manage Apricot Allergy?",
+          "Manage Stone Fruit Allergy?",
+          "Alternatives to Apricot?",
+          "fruits for Apricot Allergy?",
+          "Apricot allergy Fruits?",
+          "Apricot allergy?",
+          "people with Apricot",
+          "people Apricot allergy"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include Swelling, itching, hives, digestive discomfort",
+          "To manage Stone Fruit Allergy, you can Avoid apricots and other stone fruits such as peaches and plums.",
+          "For people with Stone Fruit Allergy, alternatives to Apricot includes Orange,banana,mango"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Jain",
+        "patterns": [
+          "jain community?",
+          "under ground food?",
+          "jain food?",
+          "aboutjain?"
+        ],
+        "responses": [
+          "Almost all Jains are vegetarian, in line with guidance to pursue ahimsa ",
+          "Jains follow a strict vegetarian diet that excludes all animal products,and under ground vegetables and instead of poatato consume banana including meat, eggs, and dairy ",
+          "Creamy Paneer Butter Masala - no onion no garlic recipe ; step by step Chowmein Recipe - No Onion No Garlic Street Style - CookingShooking."
+        ],
+        "context_set": ""
+      }
+      ,
+      {
+        "tag": "khosher",
+        "patterns": [
+          "khosher community?",
+          "sea food?",
+          "pig meat?",
+          "cow meat?",
+          "sheep meat?",
+          "goat meat?"
+        ],
+        "responses": [
+          "All plant-based products, including fruits, vegetables, grains, herbs and spices, are intrinsically kosher",
+          "Kosher food also distinguishes between meat and dairy products.",
+          "Most kosher guidelines forbid pairing meat and dairy together and allow you to eat the meat of certain animals. Kosher guidelines also provide direction on preparation."
+        ],
+        "context_set": ""
+      }
+      ,
+      {
+        "tag": "halal",
+        "patterns": [
+          "halal community?",
+          "Zabiha meat?",
+          "Fish with scales?",
+          "beef meat?",
+          "Milk and eggs?"
+        ],
+        "responses": [
+          "Halal refers to food products that are prepared following Islamic dietary laws and regulations that determine what is permissible, lawful and clean",
+          "halal food is safe and not harmfully prepared; it does not contain non-halal and najs (unclean) ingredients",
+          "they use The Zabiha process improves the taste, shelf-life and healthiness of meat"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Butter",
+        "patterns": [
+          "Milk Allergy?",
+          "Lactose Allergy?",
+          "Milk Syndrome?",
+          "Lactose Syndrome?",
+          "Manage Milk Allergy?",
+          "Manage  Lactose Allergy?",
+          "people with Milk",
+          "people with Lactose",
+          "people Milk allergy",
+          "people  Lactose allergy",
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Butter for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may cause Abdominal pain, bloating, diarrhea, skin rash",
+          "To manage Milk allergy / Lactose intolerance, you can Avoid butter and dairy products. Choose lactose-free alternatives like almonds milk,soya milk,coconut milk.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to dairy Butter"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Barley",
+        "patterns": [
+          "Barley Allergy?",
+          "Gluten Allergy?",
+          "Barley Allergy?",
+          "Gluten Syndrome?",
+          "Barley Syndrome?",
+          "Manage Gluten Allergy?",
+          "Manage Barley Allergy?",
+          "people with Gluten",
+          "people with Barley",
+          "people Gluten allergy",
+          "people Barley allergy"
+        ],
+        "responses": [
+          "The symptoms of Gluten Allergy may include...Abdominal pain, bloating, diarrhea, fatigue",
+          "To manage Gluten Allergy, you can Avoid barley and products containing gluten. Choose gluten-free alternatives.",
+          "For people with Gluten Allergy, alternatives to Barley include Buckwheat and quinoa"
+        ],
+        "context_set": ""
+      }
+    ]}  

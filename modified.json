@@ -1,0 +1,2088 @@
+[
+    {
+        "tag": "Chicory",
+        "patterns": [
+          "What are the symptoms of Insulin Allergy?",
+          "How can I manage Insulin Allergy?",
+          "Are there any alternatives to Chicory for people with Insulin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Insulin Allergy may include...Redness, swelling, itching, inflammation at injection site",
+          "To manage Insulin Allergy, you can...Insulin allergies are extremely rare. Seek medical advice for appropriate management.",
+          "For people with Insulin Allergy, alternatives to Chicory include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Chinese cabbage",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Chinese cabbage for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Abdominal pain, bloating, gas, diarrhea",
+          "To manage Cruciferous Allergy, you can...Limit intake of Chinese cabbage and cruciferous vegetables. Monitor symptoms and seek medical advice if needed.",
+          "For people with Cruciferous Allergy, alternatives to Chinese cabbage include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Coconut oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Coconut oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Coconut oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Coffee bean",
+        "patterns": [
+          "What are the symptoms of Ochratoxin Allergy?",
+          "How can I manage Ochratoxin Allergy?",
+          "Are there any alternatives to Coffee bean for people with Ochratoxin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Ochratoxin Allergy may include...Headaches, nausea, vomiting, kidney damage",
+          "To manage Ochratoxin Allergy, you can...Avoid coffee beans and contaminated products. Seek medical advice if symptoms occur.",
+          "For people with Ochratoxin Allergy, alternatives to Coffee bean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Corn",
+        "patterns": [
+          "What are the symptoms of Corn Allergy?",
+          "How can I manage Corn Allergy?",
+          "Are there any alternatives to Corn for people with Corn Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Corn Allergy may include...Skin rash, hives, itching, respiratory distress",
+          "To manage Corn Allergy, you can...Avoid corn and corn-derived products. Antihistamines may alleviate symptoms.",
+          "For people with Corn Allergy, alternatives to Corn include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Corn oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Corn oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Corn oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Cotton seed",
+        "patterns": [
+          "What are the symptoms of Seed Allergy?",
+          "How can I manage Seed Allergy?",
+          "Are there any alternatives to Cotton seed for people with Seed Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Seed Allergy may include...Skin rash, itching, hives, difficulty breathing",
+          "To manage Seed Allergy, you can...Avoid cotton seeds and products containing cottonseed oil. Seek medical attention if severe symptoms occur.",
+          "For people with Seed Allergy, alternatives to Cotton seed include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Cranberry",
+        "patterns": [
+          "What are the symptoms of Salicylate Allergy?",
+          "How can I manage Salicylate Allergy?",
+          "Are there any alternatives to Cranberry for people with Salicylate Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Salicylate Allergy may include...Skin rash, hives, nasal congestion, asthma exacerbation",
+          "To manage Salicylate Allergy, you can...Avoid cranberries and foods containing salicylates. Monitor for asthma symptoms.",
+          "For people with Salicylate Allergy, alternatives to Cranberry include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Cream",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Cream for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Abdominal pain, bloating, diarrhea, skin rash",
+          "To manage Milk allergy / Lactose intolerance, you can...Avoid cream and dairy products. Choose lactose-free alternatives.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Cream include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Crustaceans",
+        "patterns": [
+          "What are the symptoms of Shellfish Allergy?",
+          "How can I manage Shellfish Allergy?",
+          "Are there any alternatives to Crustaceans for people with Shellfish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Shellfish Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Shellfish Allergy, you can...Avoid crustaceans and shellfish. Antihistamines may alleviate symptoms.",
+          "For people with Shellfish Allergy, alternatives to Crustaceans include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Cucumber",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Cucumber for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Cucumber include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Custard",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Custard for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Abdominal pain, bloating, diarrhea, skin rash",
+          "To manage Milk allergy / Lactose intolerance, you can...Avoid custard and dairy products. Choose lactose-free alternatives.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Custard include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Date",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Date for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swollen lips, oral discomfort",
+          "To manage Oral Allergy Syndrome, you can...Cooking or peeling dates may reduce allergens. Antihistamines may alleviate symptoms if consumed.",
+          "For people with Oral Allergy Syndrome, alternatives to Date include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Deer",
+        "patterns": [
+          "What are the symptoms of Alpha-gal Syndrome?",
+          "How can I manage Alpha-gal Syndrome?",
+          "Are there any alternatives to Deer for people with Alpha-gal Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Alpha-gal Syndrome may include...Hives, itching, gastrointestinal distress, anaphylaxis",
+          "To manage Alpha-gal Syndrome, you can...Avoid deer meat and products. Carry an epinephrine auto-injector for emergencies.",
+          "For people with Alpha-gal Syndrome, alternatives to Deer include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Duck",
+        "patterns": [
+          "What are the symptoms of Poultry Allergy?",
+          "How can I manage Poultry Allergy?",
+          "Are there any alternatives to Duck for people with Poultry Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Poultry Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Poultry Allergy, you can...Avoid duck and poultry products. Consult a healthcare provider for management.",
+          "For people with Poultry Allergy, alternatives to Duck include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Eel",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Eel for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Fish Allergy, you can...Avoid eel and other fish products. Antihistamines may alleviate symptoms.",
+          "For people with Fish Allergy, alternatives to Eel include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Egg plant",
+        "patterns": [
+          "What are the symptoms of Nightshade Allergy?",
+          "How can I manage Nightshade Allergy?",
+          "Are there any alternatives to Egg plant for people with Nightshade Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nightshade Allergy may include...Digestive discomfort, skin rash, joint pain",
+          "To manage Nightshade Allergy, you can...Avoid eggplant and nightshade family vegetables. Monitor for arthritis symptoms.",
+          "For people with Nightshade Allergy, alternatives to Egg plant include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Eggs",
+        "patterns": [
+          "What are the symptoms of Poultry Allergy?",
+          "How can I manage Poultry Allergy?",
+          "Are there any alternatives to Eggs for people with Poultry Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Poultry Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Poultry Allergy, you can...Avoid eggs and poultry products. Consult a healthcare provider for management.",
+          "For people with Poultry Allergy, alternatives to Eggs include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Endive",
+        "patterns": [
+          "What are the symptoms of Insulin Allergy?",
+          "How can I manage Insulin Allergy?",
+          "Are there any alternatives to Endive for people with Insulin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Insulin Allergy may include...Redness, swelling, itching, inflammation at injection site",
+          "To manage Insulin Allergy, you can...Insulin allergies are extremely rare. Seek medical advice for appropriate management.",
+          "For people with Insulin Allergy, alternatives to Endive include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Fructose",
+        "patterns": [
+          "What are the symptoms of Sugar Allergy / Intolerance?",
+          "How can I manage Sugar Allergy / Intolerance?",
+          "Are there any alternatives to Fructose for people with Sugar Allergy / Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Sugar Allergy / Intolerance may include...Digestive discomfort, bloating, gas, diarrhea",
+          "To manage Sugar Allergy / Intolerance, you can...Limit intake of fructose and high-sugar foods. Monitor for symptoms and adjust diet as needed.",
+          "For people with Sugar Allergy / Intolerance, alternatives to Fructose include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Garlic",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Garlic for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Allium Allergy, you can...Avoid garlic and allium-containing foods. Antihistamines may alleviate symptoms.",
+          "For people with Allium Allergy, alternatives to Garlic include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Ghrkin",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Ghrkin for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Ghrkin include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Ginger",
+        "patterns": [
+          "What are the symptoms of Histamine Allergy?",
+          "How can I manage Histamine Allergy?",
+          "Are there any alternatives to Ginger for people with Histamine Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Histamine Allergy may include...Headaches, nasal congestion, facial flushing",
+          "To manage Histamine Allergy, you can...Avoid ginger and histamine-rich foods. Antihistamines may alleviate symptoms.",
+          "For people with Histamine Allergy, alternatives to Ginger include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Ginkgo nut",
+        "patterns": [
+          "What are the symptoms of Nut Allergy?",
+          "How can I manage Nut Allergy?",
+          "Are there any alternatives to Ginkgo nut for people with Nut Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nut Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Nut Allergy, you can...Avoid ginkgo nuts and products containing them. Seek medical attention if severe symptoms occur.",
+          "For people with Nut Allergy, alternatives to Ginkgo nut include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Globfish",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Globfish for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Fish Allergy, you can...Avoid globefish and other fish products. Antihistamines may alleviate symptoms.",
+          "For people with Fish Allergy, alternatives to Globfish include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Glucose",
+        "patterns": [
+          "What are the symptoms of Sugar Allergy / Intolerance?",
+          "How can I manage Sugar Allergy / Intolerance?",
+          "Are there any alternatives to Glucose for people with Sugar Allergy / Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Sugar Allergy / Intolerance may include...Digestive discomfort, bloating, gas, diarrhea",
+          "To manage Sugar Allergy / Intolerance, you can...Limit intake of glucose and high-sugar foods. Monitor for symptoms and adjust diet as needed.",
+          "For people with Sugar Allergy / Intolerance, alternatives to Glucose include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Goat",
+        "patterns": [
+          "What are the symptoms of Alpha-gal Syndrome?",
+          "How can I manage Alpha-gal Syndrome?",
+          "Are there any alternatives to Goat for people with Alpha-gal Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Alpha-gal Syndrome may include...Hives, itching, gastrointestinal distress, anaphylaxis",
+          "To manage Alpha-gal Syndrome, you can...Avoid goat meat and products. Carry an epinephrine auto-injector for emergencies.",
+          "For people with Alpha-gal Syndrome, alternatives to Goat include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Grape",
+        "patterns": [
+          "What are the symptoms of LTP Allergy?",
+          "How can I manage LTP Allergy?",
+          "Are there any alternatives to Grape for people with LTP Allergy?"
+        ],
+        "responses": [
+          "The symptoms of LTP Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage LTP Allergy, you can...Avoid grapes and grape products. Antihistamines may alleviate symptoms.",
+          "For people with LTP Allergy, alternatives to Grape include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Grapefruit",
+        "patterns": [
+          "What are the symptoms of Citrus Allergy?",
+          "How can I manage Citrus Allergy?",
+          "Are there any alternatives to Grapefruit for people with Citrus Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Citrus Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Citrus Allergy, you can...Avoid grapefruit and citrus fruits. Antihistamines may alleviate symptoms.",
+          "For people with Citrus Allergy, alternatives to Grapefruit include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Grapeseed oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Grapeseed oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Grapeseed oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Green soybean",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Green soybean for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid green soybeans and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Green soybean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Groundnut oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Groundnut oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Groundnut oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Guava",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Guava for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid guava and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Guava include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Honey",
+        "patterns": [
+          "What are the symptoms of Honey Allergy?",
+          "How can I manage Honey Allergy?",
+          "Are there any alternatives to Honey for people with Honey Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Honey Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Honey Allergy, you can...Avoid honey and bee products. Consult a healthcare provider for management.",
+          "For people with Honey Allergy, alternatives to Honey include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Hop",
+        "patterns": [
+          "What are the symptoms of Beer Allergy?",
+          "How can I manage Beer Allergy?",
+          "Are there any alternatives to Hop for people with Beer Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Beer Allergy may include...Hives, itching, nasal congestion, gastrointestinal symptoms",
+          "To manage Beer Allergy, you can...Avoid hops and beer products. Antihistamines may alleviate symptoms.",
+          "For people with Beer Allergy, alternatives to Hop include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Horse",
+        "patterns": [
+          "What are the symptoms of Alpha-gal Syndrome?",
+          "How can I manage Alpha-gal Syndrome?",
+          "Are there any alternatives to Horse for people with Alpha-gal Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Alpha-gal Syndrome may include...Hives, itching, gastrointestinal distress, anaphylaxis",
+          "To manage Alpha-gal Syndrome, you can...Avoid horse meat and products. Carry an epinephrine auto-injector for emergencies.",
+          "For people with Alpha-gal Syndrome, alternatives to Horse include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Horse Mackerel",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Horse Mackerel for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Fish Allergy, you can...Avoid horse mackerel and other fish products. Antihistamines may alleviate symptoms.",
+          "For people with Fish Allergy, alternatives to Horse Mackerel include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Horseradish",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Horseradish for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Cruciferous Allergy, you can...Avoid horseradish and cruciferous vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Cruciferous Allergy, alternatives to Horseradish include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Huckleberry",
+        "patterns": [
+          "What are the symptoms of Salicylate Allergy?",
+          "How can I manage Salicylate Allergy?",
+          "Are there any alternatives to Huckleberry for people with Salicylate Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Salicylate Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Salicylate Allergy, you can...Avoid huckleberries and salicylate-rich foods. Antihistamines may alleviate symptoms.",
+          "For people with Salicylate Allergy, alternatives to Huckleberry include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Ice cream",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Ice cream for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Digestive discomfort, bloating, gas, diarrhea",
+          "To manage Milk allergy / Lactose intolerance, you can...Limit intake of ice cream and dairy products. Choose lactose-free alternatives if intolerant.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Ice cream include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Japanese pear",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Japanese pear for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid Japanese pear and other pome fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Japanese pear include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Japanese persimmon",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Japanese persimmon for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Japanese persimmon include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Japanese plum",
+        "patterns": [
+          "What are the symptoms of Stone Fruit Allergy?",
+          "How can I manage Stone Fruit Allergy?",
+          "Are there any alternatives to Japanese plum for people with Stone Fruit Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Stone Fruit Allergy, you can...Avoid Japanese plum and stone fruits. Antihistamines may alleviate symptoms.",
+          "For people with Stone Fruit Allergy, alternatives to Japanese plum include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Kale",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Kale for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Cruciferous Allergy, you can...Avoid kale and cruciferous vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Cruciferous Allergy, alternatives to Kale include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Kidney bean",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Kidney bean for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid kidney beans and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Kidney bean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Kiwi",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Kiwi for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid kiwi and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Kiwi include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Konjac",
+        "patterns": [
+          "What are the symptoms of Potato Allergy?",
+          "How can I manage Potato Allergy?",
+          "Are there any alternatives to Konjac for people with Potato Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Potato Allergy may include...Skin rash, itching, hives, gastrointestinal distress",
+          "To manage Potato Allergy, you can...Avoid konjac and potato-containing foods. Antihistamines may alleviate symptoms.",
+          "For people with Potato Allergy, alternatives to Konjac include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Kyona",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Kyona for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Cruciferous Allergy, you can...Avoid kyona and cruciferous vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Cruciferous Allergy, alternatives to Kyona include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lactose",
+        "patterns": [
+          "What are the symptoms of Lactose Intolerance?",
+          "How can I manage Lactose Intolerance?",
+          "Are there any alternatives to Lactose for people with Lactose Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Lactose Intolerance may include...Digestive discomfort, bloating, gas, diarrhea",
+          "To manage Lactose Intolerance, you can...Limit intake of lactose-containing foods. Choose lactose-free alternatives if intolerant.",
+          "For people with Lactose Intolerance, alternatives to Lactose include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Leek",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Leek for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Allium Allergy, you can...Avoid leeks and allium-containing foods. Antihistamines may alleviate symptoms.",
+          "For people with Allium Allergy, alternatives to Leek include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lemon",
+        "patterns": [
+          "What are the symptoms of Citrus Allergy?",
+          "How can I manage Citrus Allergy?",
+          "Are there any alternatives to Lemon for people with Citrus Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Citrus Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Citrus Allergy, you can...Avoid lemons and citrus fruits. Antihistamines may alleviate symptoms.",
+          "For people with Citrus Allergy, alternatives to Lemon include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lentil",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Lentil for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid lentils and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Lentil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lettuce",
+        "patterns": [
+          "What are the symptoms of LTP Allergy?",
+          "How can I manage LTP Allergy?",
+          "Are there any alternatives to Lettuce for people with LTP Allergy?"
+        ],
+        "responses": [
+          "The symptoms of LTP Allergy may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage LTP Allergy, you can...Avoid lettuce and LTP-rich foods. Antihistamines may alleviate symptoms.",
+          "For people with LTP Allergy, alternatives to Lettuce include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lima bean",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Lima bean for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid lima beans and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Lima bean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Lime",
+        "patterns": [
+          "What are the symptoms of Citrus Allergy?",
+          "How can I manage Citrus Allergy?",
+          "Are there any alternatives to Lime for people with Citrus Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Citrus Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Citrus Allergy, you can...Avoid limes and citrus fruits. Antihistamines may alleviate symptoms.",
+          "For people with Citrus Allergy, alternatives to Lime include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Loquat",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Loquat for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid loquat and other pome fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Loquat include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mackerel",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Mackerel for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Hives, itching, swelling, gastrointestinal symptoms",
+          "To manage Fish Allergy, you can...Avoid mackerel and other fish products. Antihistamines may alleviate symptoms.",
+          "For people with Fish Allergy, alternatives to Mackerel include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Makuwauri  melon",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Makuwauri  melon for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Makuwauri  melon include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mango",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Mango for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid mango and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Mango include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Melons",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Melons for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Melons include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Milk",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Milk for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Digestive discomfort, bloating, gas, diarrhea",
+          "To manage Milk allergy / Lactose intolerance, you can...Limit intake of milk and dairy products. Choose lactose-free alternatives if intolerant.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Milk include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mineral water",
+        "patterns": [
+          "What are the symptoms of Aquagenic Urticaria?",
+          "How can I manage Aquagenic Urticaria?",
+          "Are there any alternatives to Mineral water for people with Aquagenic Urticaria?"
+        ],
+        "responses": [
+          "The symptoms of Aquagenic Urticaria may include...Itchy skin, hives, rash upon contact with water",
+          "To manage Aquagenic Urticaria, you can...Avoid direct contact with water. Topical treatments and antihistamines may help alleviate symptoms.",
+          "For people with Aquagenic Urticaria, alternatives to Mineral water include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mitsuba",
+        "patterns": [
+          "What are the symptoms of Hypersensitivity?",
+          "How can I manage Hypersensitivity?",
+          "Are there any alternatives to Mitsuba for people with Hypersensitivity?"
+        ],
+        "responses": [
+          "The symptoms of Hypersensitivity may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Hypersensitivity, you can...Avoid mitsuba and hypersensitivity-inducing factors. Consult a healthcare provider for management.",
+          "For people with Hypersensitivity, alternatives to Mitsuba include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mume plum",
+        "patterns": [
+          "What are the symptoms of Stone Fruit Allergy?",
+          "How can I manage Stone Fruit Allergy?",
+          "Are there any alternatives to Mume plum for people with Stone Fruit Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Stone Fruit Allergy, you can...Avoid mume plum and stone fruits. Antihistamines may alleviate symptoms.",
+          "For people with Stone Fruit Allergy, alternatives to Mume plum include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mustard oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Mustard oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Mustard oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Mustard Spinach",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Mustard Spinach for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Cruciferous Allergy, you can...Avoid mustard spinach and cruciferous vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Cruciferous Allergy, alternatives to Mustard Spinach include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Nectarine",
+        "patterns": [
+          "What are the symptoms of Stone Fruit Allergy?",
+          "How can I manage Stone Fruit Allergy?",
+          "Are there any alternatives to Nectarine for people with Stone Fruit Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Stone Fruit Allergy, you can...Avoid nectarine and stone fruits. Antihistamines may alleviate symptoms.",
+          "For people with Stone Fruit Allergy, alternatives to Nectarine include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Nira",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Nira for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Allium Allergy, you can...Avoid nira and allium-containing vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Allium Allergy, alternatives to Nira include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Okra",
+        "patterns": [
+          "What are the symptoms of Histamine Allergy?",
+          "How can I manage Histamine Allergy?",
+          "Are there any alternatives to Okra for people with Histamine Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Histamine Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Histamine Allergy, you can...Avoid okra and histamine-rich foods. Antihistamines may alleviate symptoms.",
+          "For people with Histamine Allergy, alternatives to Okra include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Olive oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Olive oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Olive oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Onion",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Onion for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Allium Allergy, you can...Avoid onion and allium-containing vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Allium Allergy, alternatives to Onion include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Orange",
+        "patterns": [
+          "What are the symptoms of Citrus Allergy?",
+          "How can I manage Citrus Allergy?",
+          "Are there any alternatives to Orange for people with Citrus Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Citrus Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Citrus Allergy, you can...Avoid orange and citrus fruits. Antihistamines may alleviate symptoms.",
+          "For people with Citrus Allergy, alternatives to Orange include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Orange pulp",
+        "patterns": [
+          "What are the symptoms of Citrus Allergy?",
+          "How can I manage Citrus Allergy?",
+          "Are there any alternatives to Orange pulp for people with Citrus Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Citrus Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Citrus Allergy, you can...Avoid orange pulp and citrus fruits. Antihistamines may alleviate symptoms.",
+          "For people with Citrus Allergy, alternatives to Orange pulp include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Papaya",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Papaya for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid papaya and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Papaya include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Parsley",
+        "patterns": [
+          "What are the symptoms of Hypersensitivity?",
+          "How can I manage Hypersensitivity?",
+          "Are there any alternatives to Parsley for people with Hypersensitivity?"
+        ],
+        "responses": [
+          "The symptoms of Hypersensitivity may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Hypersensitivity, you can...Avoid parsley and hypersensitivity-inducing factors. Antihistamines may alleviate symptoms.",
+          "For people with Hypersensitivity, alternatives to Parsley include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Parsnip",
+        "patterns": [
+          "What are the symptoms of Hypersensitivity?",
+          "How can I manage Hypersensitivity?",
+          "Are there any alternatives to Parsnip for people with Hypersensitivity?"
+        ],
+        "responses": [
+          "The symptoms of Hypersensitivity may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Hypersensitivity, you can...Avoid parsnip and hypersensitivity-inducing factors. Antihistamines may alleviate symptoms.",
+          "For people with Hypersensitivity, alternatives to Parsnip include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Passion fruit",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Passion fruit for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid passion fruit and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Passion fruit include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Peach",
+        "patterns": [
+          "What are the symptoms of Stone Fruit Allergy?",
+          "How can I manage Stone Fruit Allergy?",
+          "Are there any alternatives to Peach for people with Stone Fruit Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Stone Fruit Allergy, you can...Avoid peach and stone fruits. Antihistamines may alleviate symptoms.",
+          "For people with Stone Fruit Allergy, alternatives to Peach include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Peanut",
+        "patterns": [
+          "What are the symptoms of Peanut Allergy?",
+          "How can I manage Peanut Allergy?",
+          "Are there any alternatives to Peanut for people with Peanut Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Peanut Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Peanut Allergy, you can...Avoid peanuts and peanut products. Seek medical attention if severe symptoms occur.",
+          "For people with Peanut Allergy, alternatives to Peanut include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pear",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Pear for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid pear and other pome fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Pear include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Peas",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Peas for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid peas and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Peas include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Peas",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Peas for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid peas and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Peas include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pecan",
+        "patterns": [
+          "What are the symptoms of Nut Allergy?",
+          "How can I manage Nut Allergy?",
+          "Are there any alternatives to Pecan for people with Nut Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nut Allergy may include...Skin rash, itching, hives, swelling, anaphylaxis",
+          "To manage Nut Allergy, you can...Avoid pecans and nut products. Seek medical attention if severe symptoms occur.",
+          "For people with Nut Allergy, alternatives to Pecan include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pegia",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Pegia for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Legume Allergy, you can...Avoid pegia and legume products. Seek medical attention if severe symptoms occur.",
+          "For people with Legume Allergy, alternatives to Pegia include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Peppermint",
+        "patterns": [
+          "What are the symptoms of Mint Allergy?",
+          "How can I manage Mint Allergy?",
+          "Are there any alternatives to Peppermint for people with Mint Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Mint Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Mint Allergy, you can...Avoid peppermint and mint-containing products. Antihistamines may alleviate symptoms.",
+          "For people with Mint Allergy, alternatives to Peppermint include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Percifomes",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Percifomes for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Fish Allergy, you can...Avoid percifomes and fish products. Seek medical attention if severe symptoms occur.",
+          "For people with Fish Allergy, alternatives to Percifomes include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pig",
+        "patterns": [
+          "What are the symptoms of Alpha-gal Syndrome?",
+          "How can I manage Alpha-gal Syndrome?",
+          "Are there any alternatives to Pig for people with Alpha-gal Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Alpha-gal Syndrome may include...Hives, itching, swelling, stomach cramps, diarrhea",
+          "To manage Alpha-gal Syndrome, you can...Avoid pork and pork products. Carry an epinephrine injector if diagnosed with alpha-gal syndrome.",
+          "For people with Alpha-gal Syndrome, alternatives to Pig include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pineapple",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Pineapple for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid pineapple and other tropical fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Pineapple include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Popcorn",
+        "patterns": [
+          "What are the symptoms of Corn Allergy?",
+          "How can I manage Corn Allergy?",
+          "Are there any alternatives to Popcorn for people with Corn Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Corn Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Corn Allergy, you can...Avoid popcorn and corn products. Antihistamines may alleviate symptoms.",
+          "For people with Corn Allergy, alternatives to Popcorn include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Potato",
+        "patterns": [
+          "What are the symptoms of Potato Allergy?",
+          "How can I manage Potato Allergy?",
+          "Are there any alternatives to Potato for people with Potato Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Potato Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Potato Allergy, you can...Avoid potato and potato-containing products. Antihistamines may alleviate symptoms.",
+          "For people with Potato Allergy, alternatives to Potato include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Prune",
+        "patterns": [
+          "What are the symptoms of Stone Fruit Allergy?",
+          "How can I manage Stone Fruit Allergy?",
+          "Are there any alternatives to Prune for people with Stone Fruit Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Stone Fruit Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Stone Fruit Allergy, you can...Avoid prune and stone fruits. Antihistamines may alleviate symptoms.",
+          "For people with Stone Fruit Allergy, alternatives to Prune include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Pumpkin",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Pumpkin for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Pumpkin include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Qing-geng-cai",
+        "patterns": [
+          "What are the symptoms of Cruciferous Allergy?",
+          "How can I manage Cruciferous Allergy?",
+          "Are there any alternatives to Qing-geng-cai for people with Cruciferous Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Cruciferous Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Cruciferous Allergy, you can...Avoid qing-geng-cai and cruciferous vegetables. Antihistamines may alleviate symptoms.",
+          "For people with Cruciferous Allergy, alternatives to Qing-geng-cai include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Quince",
+        "patterns": [
+          "What are the symptoms of Oral Allergy Syndrome?",
+          "How can I manage Oral Allergy Syndrome?",
+          "Are there any alternatives to Quince for people with Oral Allergy Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swelling of lips and tongue",
+          "To manage Oral Allergy Syndrome, you can...Avoid quince and other pome fruits. Antihistamines may alleviate symptoms.",
+          "For people with Oral Allergy Syndrome, alternatives to Quince include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Radish leaf",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Radish leaf for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Radish leaf include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Radish root",
+        "patterns": [
+          "What are the symptoms of Hypersensitivity?",
+          "How can I manage Hypersensitivity?",
+          "Are there any alternatives to Radish root for people with Hypersensitivity?"
+        ],
+        "responses": [
+          "The symptoms of Hypersensitivity may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Hypersensitivity, you can...Avoid radish root and hypersensitivity-inducing factors. Antihistamines may alleviate symptoms.",
+          "For people with Hypersensitivity, alternatives to Radish root include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Rapeseed",
+        "patterns": [
+          "What are the symptoms of Seed Allergy?",
+          "How can I manage Seed Allergy?",
+          "Are there any alternatives to Rapeseed for people with Seed Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Seed Allergy may include...Skin rash, itching, hives, swelling, anaphylaxis",
+          "To manage Seed Allergy, you can...Avoid rapeseed and seed products. Seek medical attention if severe symptoms occur.",
+          "For people with Seed Allergy, alternatives to Rapeseed include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Raspberry",
+        "patterns": [
+          "What are the symptoms of Salicylate Allergy?",
+          "How can I manage Salicylate Allergy?",
+          "Are there any alternatives to Raspberry for people with Salicylate Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Salicylate Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Salicylate Allergy, you can...Avoid raspberry and salicylate-containing foods. Antihistamines may alleviate symptoms.",
+          "For people with Salicylate Allergy, alternatives to Raspberry include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Rice",
+        "patterns": [
+          "What are the symptoms of Rice Allergy?",
+          "How can I manage Rice Allergy?",
+          "Are there any alternatives to Rice for people with Rice Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Rice Allergy may include...Skin rash, itching, hives, digestive discomfort",
+          "To manage Rice Allergy, you can...Avoid rice and rice products. Antihistamines may alleviate symptoms.",
+          "For people with Rice Allergy, alternatives to Rice include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Ricebran oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Ricebran oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms not available",
+          "To manage , you can...Treatment not applicable",
+          "For people with , alternatives to Ricebran oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Royal Jelly",
+        "patterns": [
+          "What are the symptoms of Honey Allergy?",
+          "How can I manage Honey Allergy?",
+          "Are there any alternatives to Royal Jelly for people with Honey Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Honey Allergy may include...Skin rash, itching, hives, swelling, anaphylaxis",
+          "To manage Honey Allergy, you can...Avoid royal jelly and bee products. Seek medical attention if severe symptoms occur.",
+          "For people with Honey Allergy, alternatives to Royal Jelly include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Rye",
+        "patterns": [
+          "What are the symptoms of Gluten Allergy?",
+          "How can I manage Gluten Allergy?",
+          "Are there any alternatives to Rye for people with Gluten Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Gluten Allergy may include...Digestive discomfort, bloating, diarrhea, skin rash",
+          "To manage Gluten Allergy, you can...Avoid rye and gluten-containing products. Follow a gluten-free diet.",
+          "For people with Gluten Allergy, alternatives to Rye include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Safflower seed",
+        "patterns": [
+          "What are the symptoms of Seed Allergy?",
+          "How can I manage Seed Allergy?",
+          "Are there any alternatives to Safflower seed for people with Seed Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Seed Allergy may include...Skin rash, itching, hives, swelling, anaphylaxis",
+          "To manage Seed Allergy, you can...Avoid safflower seed and seed products. Seek medical attention if severe symptoms occur.",
+          "For people with Seed Allergy, alternatives to Safflower seed include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Salmon",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Salmon for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+          "To manage Fish Allergy, you can...Avoid salmon and fish products. Seek medical attention if severe symptoms occur.",
+          "For people with Fish Allergy, alternatives to Salmon include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Salsify",
+        "patterns": [
+          "What are the symptoms of Insulin Allergy?",
+          "How can I manage Insulin Allergy?",
+          "Are there any alternatives to Salsify for people with Insulin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Insulin Allergy may include...Skin rash, itching, hives, respiratory distress",
+          "To manage Insulin Allergy, you can...Avoid salsify and insulin-inducing factors. Antihistamines may alleviate symptoms.",
+          "For people with Insulin Allergy, alternatives to Salsify include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sansho",
+        "patterns": [
+          "What are the symptoms of Pepper Allergy?",
+          "How can I manage Pepper Allergy?",
+          "Are there any alternatives to Sansho for people with Pepper Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Pepper Allergy may include...Symptoms may include itching of the mouth, swelling of the lips or tongue, hives, or, in severe cases, anaphylaxis.",
+          "To manage Pepper Allergy, you can...Treatment involves avoiding consumption of Sansho and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Pepper Allergy, alternatives to Sansho include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sea Bass",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Sea Bass for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Sea Bass and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Sea Bass include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sea Bream",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Sea Bream for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Sea Bream and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Sea Bream include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sesame seed",
+        "patterns": [
+          "What are the symptoms of Seed Allergy?",
+          "How can I manage Seed Allergy?",
+          "Are there any alternatives to Sesame seed for people with Seed Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Seed Allergy may include...Symptoms may include itching of the mouth, swelling of the lips or tongue, hives, abdominal pain, vomiting, diarrhea, or, in severe cases, anaphylaxis.",
+          "To manage Seed Allergy, you can...Treatment involves avoiding consumption of Sesame seed and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Seed Allergy, alternatives to Sesame seed include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Shallot",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Shallot for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Symptoms may include itching, swelling, or redness of the skin, hives, abdominal pain, diarrhea, nausea, or in severe cases, anaphylaxis.",
+          "To manage Allium Allergy, you can...Treatment involves avoiding consumption of Shallot and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Allium Allergy, alternatives to Shallot include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sheep",
+        "patterns": [
+          "What are the symptoms of Alpha-gal Syndrome?",
+          "How can I manage Alpha-gal Syndrome?",
+          "Are there any alternatives to Sheep for people with Alpha-gal Syndrome?"
+        ],
+        "responses": [
+          "The symptoms of Alpha-gal Syndrome may include...Symptoms may include hives, itching, swelling of the lips, face, tongue, or throat, abdominal pain, diarrhea, nausea, or in severe cases, anaphylaxis.",
+          "To manage Alpha-gal Syndrome, you can...Treatment involves avoiding consumption of Sheep products and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Alpha-gal Syndrome, alternatives to Sheep include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Shelled mollusc",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Shelled mollusc for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Shelled mollusc and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Shelled mollusc include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Shiitake mushroom",
+        "patterns": [
+          "What are the symptoms of Mushroom Allergy?",
+          "How can I manage Mushroom Allergy?",
+          "Are there any alternatives to Shiitake mushroom for people with Mushroom Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Mushroom Allergy may include...Symptoms may include skin rash, itching, nasal congestion, watery or itchy eyes, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Mushroom Allergy, you can...Treatment involves avoiding consumption of Shiitake mushroom and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Mushroom Allergy, alternatives to Shiitake mushroom include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Shungiku",
+        "patterns": [
+          "What are the symptoms of Insulin Allergy?",
+          "How can I manage Insulin Allergy?",
+          "Are there any alternatives to Shungiku for people with Insulin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Insulin Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Insulin Allergy, you can...Treatment involves avoiding consumption of Shungiku and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Insulin Allergy, alternatives to Shungiku include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sour cream",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Sour cream for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Symptoms may include abdominal pain, bloating, diarrhea, gas, nausea, or in severe cases, anaphylaxis.",
+          "To manage Milk allergy / Lactose intolerance, you can...Treatment involves avoiding consumption of Sour cream and using lactose-free alternatives or antihistamines in case of severe reactions.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Sour cream include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Soybean",
+        "patterns": [
+          "What are the symptoms of Soy Allergy?",
+          "How can I manage Soy Allergy?",
+          "Are there any alternatives to Soybean for people with Soy Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Soy Allergy may include...Symptoms may include hives, itching, swelling, abdominal pain, diarrhea, vomiting, wheezing, or in severe cases, anaphylaxis.",
+          "To manage Soy Allergy, you can...Treatment involves avoiding consumption of Soybean and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Soy Allergy, alternatives to Soybean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Spearmint",
+        "patterns": [
+          "What are the symptoms of Mint Allergy?",
+          "How can I manage Mint Allergy?",
+          "Are there any alternatives to Spearmint for people with Mint Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Mint Allergy may include...Symptoms may include skin rash, itching, swelling, nasal congestion, runny nose, sneezing, or in severe cases, anaphylaxis.",
+          "To manage Mint Allergy, you can...Treatment involves avoiding consumption of Spearmint and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Mint Allergy, alternatives to Spearmint include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Spinach",
+        "patterns": [
+          "What are the symptoms of Histamine Allergy?",
+          "How can I manage Histamine Allergy?",
+          "Are there any alternatives to Spinach for people with Histamine Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Histamine Allergy may include...Symptoms may include hives, itching, nasal congestion, runny nose, sneezing, digestive discomfort, or in severe cases, anaphylaxis.",
+          "To manage Histamine Allergy, you can...Treatment involves avoiding consumption of Spinach and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Histamine Allergy, alternatives to Spinach include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Squash",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Squash for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Squash include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Strawberry",
+        "patterns": [
+          "What are the symptoms of Salicylate Allergy?",
+          "How can I manage Salicylate Allergy?",
+          "Are there any alternatives to Strawberry for people with Salicylate Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Salicylate Allergy may include...Symptoms may include skin rash, itching, swelling, nasal congestion, runny nose, wheezing, or in severe cases, anaphylaxis.",
+          "To manage Salicylate Allergy, you can...Treatment involves avoiding consumption of Strawberry and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Salicylate Allergy, alternatives to Strawberry include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sugar",
+        "patterns": [
+          "What are the symptoms of Sugar Allergy / Intolerance?",
+          "How can I manage Sugar Allergy / Intolerance?",
+          "Are there any alternatives to Sugar for people with Sugar Allergy / Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Sugar Allergy / Intolerance may include...Symptoms may include gastrointestinal discomfort, bloating, gas, diarrhea, or in severe cases, metabolic disturbances.",
+          "To manage Sugar Allergy / Intolerance, you can...Treatment involves managing dietary intake and avoiding foods high in sugar content.",
+          "For people with Sugar Allergy / Intolerance, alternatives to Sugar include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sugar beet",
+        "patterns": [
+          "What are the symptoms of Sugar Allergy / Intolerance?",
+          "How can I manage Sugar Allergy / Intolerance?",
+          "Are there any alternatives to Sugar beet for people with Sugar Allergy / Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Sugar Allergy / Intolerance may include...Symptoms may include gastrointestinal discomfort, bloating, gas, diarrhea, or in severe cases, metabolic disturbances.",
+          "To manage Sugar Allergy / Intolerance, you can...Treatment involves managing dietary intake and avoiding foods high in sugar content.",
+          "For people with Sugar Allergy / Intolerance, alternatives to Sugar beet include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sugarcane",
+        "patterns": [
+          "What are the symptoms of Sugar Allergy / Intolerance?",
+          "How can I manage Sugar Allergy / Intolerance?",
+          "Are there any alternatives to Sugarcane for people with Sugar Allergy / Intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Sugar Allergy / Intolerance may include...Symptoms may include gastrointestinal discomfort, bloating, gas, diarrhea, or in severe cases, metabolic disturbances.",
+          "To manage Sugar Allergy / Intolerance, you can...Treatment involves managing dietary intake and avoiding foods high in sugar content.",
+          "For people with Sugar Allergy / Intolerance, alternatives to Sugarcane include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sultani",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Sultani for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Symptoms may include hives, itching, swelling, nasal congestion, runny nose, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Legume Allergy, you can...Treatment involves avoiding consumption of Sultani and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Legume Allergy, alternatives to Sultani include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sultapya",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to Sultapya for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Symptoms may include hives, itching, swelling, nasal congestion, runny nose, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Legume Allergy, you can...Treatment involves avoiding consumption of Sultapya and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Legume Allergy, alternatives to Sultapya include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sunflower oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Sunflower oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Sunflower oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sunflower seed",
+        "patterns": [
+          "What are the symptoms of Seed Allergy?",
+          "How can I manage Seed Allergy?",
+          "Are there any alternatives to Sunflower seed for people with Seed Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Seed Allergy may include...Symptoms may include itching of the mouth, swelling of the lips or tongue, hives, abdominal pain, vomiting, diarrhea, or, in severe cases, anaphylaxis.",
+          "To manage Seed Allergy, you can...Treatment involves avoiding consumption of Sunflower seed and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Seed Allergy, alternatives to Sunflower seed include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sweet corn",
+        "patterns": [
+          "What are the symptoms of Corn Allergy?",
+          "How can I manage Corn Allergy?",
+          "Are there any alternatives to Sweet corn for people with Corn Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Corn Allergy may include...Symptoms may include skin rash, itching, nasal congestion, runny nose, watery or itchy eyes, digestive discomfort, or in severe cases, anaphylaxis.",
+          "To manage Corn Allergy, you can...Treatment involves avoiding consumption of Sweet corn and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Corn Allergy, alternatives to Sweet corn include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sweet Pepper",
+        "patterns": [
+          "What are the symptoms of Nightshade Allergy?",
+          "How can I manage Nightshade Allergy?",
+          "Are there any alternatives to Sweet Pepper for people with Nightshade Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nightshade Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Nightshade Allergy, you can...Treatment involves avoiding consumption of Sweet Pepper and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Nightshade Allergy, alternatives to Sweet Pepper include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Sweet potato",
+        "patterns": [
+          "What are the symptoms of Potato Allergy?",
+          "How can I manage Potato Allergy?",
+          "Are there any alternatives to Sweet potato for people with Potato Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Potato Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Potato Allergy, you can...Treatment involves avoiding consumption of Sweet Potato and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Potato Allergy, alternatives to Sweet potato include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Taro",
+        "patterns": [
+          "What are the symptoms of Potato Allergy?",
+          "How can I manage Potato Allergy?",
+          "Are there any alternatives to Taro for people with Potato Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Potato Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Potato Allergy, you can...Treatment involves avoiding consumption of Taro and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Potato Allergy, alternatives to Taro include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Tea",
+        "patterns": [
+          "What are the symptoms of Tannin Allergy?",
+          "How can I manage Tannin Allergy?",
+          "Are there any alternatives to Tea for people with Tannin Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Tannin Allergy may include...Symptoms may include hives, itching, nasal congestion, runny nose, sneezing, wheezing, coughing, or in severe cases, anaphylaxis.",
+          "To manage Tannin Allergy, you can...Treatment involves avoiding consumption of Tea and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Tannin Allergy, alternatives to Tea include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Tetraodontiformes",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Tetraodontiformes for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Tetraodontiformes and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Tetraodontiformes include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Tomato",
+        "patterns": [
+          "What are the symptoms of Nightshade Allergy?",
+          "How can I manage Nightshade Allergy?",
+          "Are there any alternatives to Tomato for people with Nightshade Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nightshade Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Nightshade Allergy, you can...Treatment involves avoiding consumption of Tomato and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Nightshade Allergy, alternatives to Tomato include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Trout",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Trout for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Trout and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Trout include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Tuna",
+        "patterns": [
+          "What are the symptoms of Fish Allergy?",
+          "How can I manage Fish Allergy?",
+          "Are there any alternatives to Tuna for people with Fish Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Fish Allergy may include...Symptoms may include hives, itching or swelling of the lips, face, tongue, or throat, trouble breathing, wheezing, nasal congestion, or in severe cases, anaphylaxis.",
+          "To manage Fish Allergy, you can...Treatment involves avoiding consumption of Tuna and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Fish Allergy, alternatives to Tuna include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Turkey",
+        "patterns": [
+          "What are the symptoms of Poultry Allergy?",
+          "How can I manage Poultry Allergy?",
+          "Are there any alternatives to Turkey for people with Poultry Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Poultry Allergy may include...Symptoms may include hives, itching, swelling of the lips, face, tongue, or throat, nasal congestion, sneezing, coughing, wheezing, or in severe cases, anaphylaxis.",
+          "To manage Poultry Allergy, you can...Treatment involves avoiding consumption of Turkey and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Poultry Allergy, alternatives to Turkey include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Turnip leaf",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Turnip leaf for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Turnip leaf include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Turnip root",
+        "patterns": [
+          "What are the symptoms of Thyroid?",
+          "How can I manage Thyroid?",
+          "Are there any alternatives to Turnip root for people with Thyroid?"
+        ],
+        "responses": [
+          "The symptoms of Thyroid may include...Symptoms may include goiter, hypothyroidism, fatigue, weight gain, sensitivity to cold, constipation, dry skin, or in severe cases, thyroid storm.",
+          "To manage Thyroid, you can...Treatment involves avoiding consumption of Turnip root and managing thyroid hormone levels under medical supervision.",
+          "For people with Thyroid, alternatives to Turnip root include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Vegetable oil",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Vegetable oil for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Vegetable oil include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Walnut",
+        "patterns": [
+          "What are the symptoms of Nut Allergy?",
+          "How can I manage Nut Allergy?",
+          "Are there any alternatives to Walnut for people with Nut Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Nut Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, vomiting, diarrhea, or, in severe cases, anaphylaxis.",
+          "To manage Nut Allergy, you can...Treatment involves avoiding consumption of Walnut and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Nut Allergy, alternatives to Walnut include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Water melon",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Water melon for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Water melon include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Watercress",
+        "patterns": [
+          "What are the symptoms of ?",
+          "How can I manage ?",
+          "Are there any alternatives to Watercress for people with ?"
+        ],
+        "responses": [
+          "The symptoms of  may include...Symptoms may vary depending on underlying allergies or intolerances.",
+          "To manage , you can...Treatment depends on the specific allergic reaction or intolerance.",
+          "For people with , alternatives to Watercress include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Welsh",
+        "patterns": [
+          "What are the symptoms of Allium Allergy?",
+          "How can I manage Allium Allergy?",
+          "Are there any alternatives to Welsh for people with Allium Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Allium Allergy may include...Symptoms may include skin rash, itching, swelling, nasal congestion, runny nose, sneezing, or in severe cases, anaphylaxis.",
+          "To manage Allium Allergy, you can...Treatment involves avoiding consumption of Welsh and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Allium Allergy, alternatives to Welsh include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Wheat",
+        "patterns": [
+          "What are the symptoms of Gluten Allergy?",
+          "How can I manage Gluten Allergy?",
+          "Are there any alternatives to Wheat for people with Gluten Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Gluten Allergy may include...Symptoms may include abdominal pain, bloating, diarrhea, constipation, headaches, fatigue, skin rash, joint pain, or in severe cases, anaphylaxis.",
+          "To manage Gluten Allergy, you can...Treatment involves avoiding consumption of Wheat and gluten-containing products and using gluten-free alternatives.",
+          "For people with Gluten Allergy, alternatives to Wheat include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Whey",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Whey for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Symptoms may include abdominal pain, bloating, diarrhea, gas, nausea, or in severe cases, anaphylaxis.",
+          "To manage Milk allergy / Lactose intolerance, you can...Treatment involves avoiding consumption of Whey and using lactose-free alternatives or antihistamines in case of severe reactions.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Whey include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "White bean",
+        "patterns": [
+          "What are the symptoms of Legume Allergy?",
+          "How can I manage Legume Allergy?",
+          "Are there any alternatives to White bean for people with Legume Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Legume Allergy may include...Symptoms may include hives, itching, swelling, nasal congestion, runny nose, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Legume Allergy, you can...Treatment involves avoiding consumption of White bean and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Legume Allergy, alternatives to White bean include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Yam",
+        "patterns": [
+          "What are the symptoms of Potato Allergy?",
+          "How can I manage Potato Allergy?",
+          "Are there any alternatives to Yam for people with Potato Allergy?"
+        ],
+        "responses": [
+          "The symptoms of Potato Allergy may include...Symptoms may include skin rash, itching, swelling, abdominal pain, diarrhea, or in severe cases, anaphylaxis.",
+          "To manage Potato Allergy, you can...Treatment involves avoiding consumption of Yam and using antihistamines or epinephrine in case of severe reactions.",
+          "For people with Potato Allergy, alternatives to Yam include..."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "Yogurt",
+        "patterns": [
+          "What are the symptoms of Milk allergy / Lactose intolerance?",
+          "How can I manage Milk allergy / Lactose intolerance?",
+          "Are there any alternatives to Yogurt for people with Milk allergy / Lactose intolerance?"
+        ],
+        "responses": [
+          "The symptoms of Milk allergy / Lactose intolerance may include...Symptoms may include abdominal pain, bloating, diarrhea, gas, nausea, or in severe cases, anaphylaxis.",
+          "To manage Milk allergy / Lactose intolerance, you can...Treatment involves avoiding consumption of Yogurt and using lactose-free alternatives or antihistamines in case of severe reactions.",
+          "For people with Milk allergy / Lactose intolerance, alternatives to Yogurt include..."
+        ],
+        "context_set": ""
+      }
+]

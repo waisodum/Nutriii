@@ -1,0 +1,211 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Whats up",
+        "Hey",
+        "greetings"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Have a Good day",
+        "bye",
+        "cao",
+        "see ya"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Almond",
+      "patterns": [
+        "symptoms of Nut Allergy?",
+        "Nut Allergy?",
+        "manage Nut Allergy?",
+        "Alternatives of Almonds?",
+        "Almonds Allergy?",
+        "alternatives to Almond for Nut Allergy people?"
+      ],
+      "responses": [
+        "The symptoms of Nut Allergy may include...Swelling, itching, hives, difficulty breathing, anaphylaxis",
+        "To manage Nut Allergy, you can...Avoid almonds and products containing almonds. Carry an epinephrine auto-injector for emergencies.",
+        "For people with Nut Allergy, alternatives to Almond include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Apple",
+      "patterns": [
+        "Oral Allergy Syndrome?",
+        "Mouth Allergy Syndrome?",
+        "Mouth Allergy?",
+        "Manage Oral Allergy?",
+        "Manage Mouth Allergy?",
+        "Alternatives to Apple?",
+        "fruits for oral Allergy?",
+        "Mouth allergy Fruits?",
+        "Fruits Oral allergy?",
+        "fruits Oral",
+        "fruits Mouth"
+      ],
+      "responses": [
+        "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, scratchy throat, swollen lips, oral discomfort",
+        "To manage Oral Allergy Syndrome, you can...Cooking or peeling apples may reduce allergic reactions. Avoid consuming raw apples.",
+        "For people with Oral Allergy Syndrome, alternatives to Apple include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Apricot",
+      "patterns": [
+        "Stone Fruit Allergy?",
+        "Apricot Allergy?",
+        "Stone Fruit Syndrome?",
+        "Manage Apricot Allergy?",
+        "Manage Stone Fruit Allergy?",
+        "Alternatives to Apricot?",
+        "fruits for Apricot Allergy?",
+        "Apricot allergy Fruits?",
+        "Apricot allergy?",
+        "people with Apricot",
+        "people Apricot allergy"
+      ],
+      "responses": [
+        "The symptoms of Stone Fruit Allergy may include...Swelling, itching, hives, digestive discomfort",
+        "To manage Stone Fruit Allergy, you can...Avoid apricots and other stone fruits such as peaches and plums.",
+        "For people with Stone Fruit Allergy, alternatives to Apricot include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Artichoke",
+      "patterns": [
+        "Artichoke Allergy?",
+        "Cynara scolymus Allergy?",
+        "Cynara scolymus Syndrome?",
+        "Manage  Cynara Allergy?",
+        "Manage Artichoke Allergy?",
+        "Alternatives to Apricot?",
+        "people with Artichoke",
+        "people with Cynara",
+        "people Artichoke allergy"
+      ],
+      "responses": [
+        "The symptoms of Insulin Allergy may include...Redness, swelling, itching, inflammation at injection site",
+        "To manage Insulin Allergy, you can...Insulin allergies are extremely rare. Seek medical advice for appropriate management.",
+        "For people with Insulin Allergy, alternatives to Artichoke include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Asparagus",
+      "patterns": [
+        "Allium Allergy?",
+        "onion Allergy?",
+        "garlic Allergy?",
+        "Asparagus Allergy?",
+        "Asparagus Syndrome?",
+        "Allium Syndrome?",
+        "Manage  Allium Allergy?",
+        "Manage Asparagus Allergy?",
+        "people with Allium",
+        "people with Asparagus",
+        "people Asparagus allergy",
+        "people Allium allergy"
+      ],
+      "responses": [
+        "The symptoms of Allium Allergy may include...Watery eyes, runny nose, sneezing, throat irritation",
+        "To manage Allium Allergy, you can...Avoid onions, garlic, and other allium vegetables. Read food labels carefully.",
+        "For people with Allium Allergy, alternatives to Asparagus include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Avocado",
+      "patterns": [
+        "Oral Allergy?",
+        "Avocado Allergy?",
+        "latex Allergy?",
+        "Avocado Syndrome?",
+        "latex Syndrome?",
+        "Manage latex Allergy?",
+        "Manage Avocado Allergy?",
+        "people with latex",
+        "people with Avocado",
+        "people latex allergy",
+        "people Avocado allergy"
+      ],
+      "responses": [
+        "The symptoms of Oral Allergy Syndrome may include...Itchy mouth, swollen lips, oral discomfort",
+        "To manage Oral Allergy Syndrome, you can...Peeling avocados before eating may reduce allergic reactions.",
+        "For people with Oral Allergy Syndrome, alternatives to Avocado include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Bamboo shoot",
+      "patterns": [
+        "Histamine Allergy?",
+        "Bamboo shoot Allergy?",
+        "Bamboo Allergy?",
+        "Bamboo shoot Syndrome?",
+        "Histamine Syndrome?",
+        "Manage Bamboo shoot Allergy?",
+        "Manage Histamine Allergy?",
+        "people with Bamboo shoot",
+        "people with Histamine",
+        "people Bamboo shoot allergy",
+        "people Histamine allergy"
+      ],
+      "responses": [
+        "The symptoms of Histamine Allergy may include...Headaches, itching, hives, nasal congestion",
+        "To manage Histamine Allergy, you can...Histamine intolerance may vary. Avoid aged, fermented, and spoiled foods.",
+        "For people with Histamine Allergy, alternatives to Bamboo shoot include..."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Banana",
+      "patterns": [
+        "Banana Allergy?",
+        "latex-fruit Allergy?",
+        "Banana Allergy?",
+        "latex-fruit Syndrome?",
+        "Banana Syndrome?",
+        "Manage latex-fruit Allergy?",
+        "Manage Banana Allergy?",
+        "people with latex-fruit",
+        "people with Banana",
+        "people latex-fruit allergy",
+        "people Banana allergy"
+      ],
+      "responses": [
+        "The symptoms of Banana Allergy may include...Swelling, itching, hives, gastrointestinal upset",
+        "To manage Banana Allergy, you can...Avoid consuming bananas and products containing bananas.",
+        "For people with Banana Allergy, alternatives to Banana include..."
+      ],
+      "context_set": ""
+    }]
+}
